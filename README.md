@@ -1,4 +1,2 @@
-# hello-world
-for traditional tuto
-Hı Humans
-I am a developer
+#ANDROİD GAME DEVO.
+there is a surface view templates whic is named as platformview this a general purpose template.
