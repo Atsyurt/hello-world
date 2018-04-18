@@ -1,7 +1,7 @@
 package com.example.user.game1;
 
 /**
- * Created by User on 19.01.2018.
+ * Created by User on 19.01.2018
  */
 
 import android.content.Context;
